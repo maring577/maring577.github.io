@@ -1,3 +1,13 @@
+---
+layout: single
+title:  "Welcome to My Home"
+---
+
+# Welcome 
+  Thanks you.
+
+오늘 두번째 블로그를 만들었어요.
+
 <ul>
   {% for post in site.posts %}
     <li>
