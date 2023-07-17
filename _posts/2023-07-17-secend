@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Welcome to My Home"
+title:  "Title .2"
 ---
 
 # Welcome 
@@ -8,10 +8,3 @@ title:  "Welcome to My Home"
 
 오늘 두번째 블로그를 만들었어요.
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul
